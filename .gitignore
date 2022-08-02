@@ -9,3 +9,7 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
+.next/cache/webpack/client-development/1.pack
+.next/cache/webpack/client-development/17.pack
+.next/cache/webpack/client-development/index.pack
+.next/cache/webpack/client-development/index.pack.old
