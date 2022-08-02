@@ -58,7 +58,7 @@ const VideoWithTestimonials = () => {
 
                 <div className="cont">
                   <h3 className="wow" data-splitting>
-                    So that&apos;s us. There&apos;s no other way to put it.
+                    Wir haben E-Commerce in der DNA.
                   </h3>
                 </div>
               </div>
@@ -67,10 +67,10 @@ const VideoWithTestimonials = () => {
               <div className="testim-box">
                 <div className="head-box">
                   <h6 className="wow fadeIn" data-wow-delay=".5s">
-                    Our Clients
+                    Unsere Kunden
                   </h6>
                   <h4 className="wow fadeInLeft" data-wow-delay=".5s">
-                    What Client&apos;s Say?
+                    Was Kunden denken?
                   </h4>
                 </div>
                 <Slider
@@ -80,9 +80,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                      Runourcode hat unserer Onlineshop Entwickelt und als einzige Agentur perfekt an unser ERP System angebunden.
                     </p>
                     <div className="info">
                       <div className="img">
@@ -93,10 +91,10 @@ const VideoWithTestimonials = () => {
                       <div className="cont">
                         <div className="author">
                           <h6 className="author-name custom-font">
-                            Alex Regelman
+                            Michael Feldmann
                           </h6>
                           <span className="author-details">
-                            Co-founder, Colabrio
+                            Geschäftsführer, Feldmann GmbH
                           </span>
                         </div>
                       </div>
@@ -104,9 +102,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                      Einen Produktkonfigurator mit Statikberechnung? Lange dachten wir das geht nicht, Runourcode hat das Gegenteil bewiesen
                     </p>
                     <div className="info">
                       <div className="img">
@@ -117,10 +113,10 @@ const VideoWithTestimonials = () => {
                       <div className="cont">
                         <div className="author">
                           <h6 className="author-name custom-font">
-                            Alex Regelman
+                            Thomas Nautsch
                           </h6>
                           <span className="author-details">
-                            Co-founder, Colabrio
+                            Geschäftsführer, FeNau GmbH
                           </span>
                         </div>
                       </div>
@@ -128,9 +124,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                      Wenn es um Shopware B2B Lösungen geht, kommt man an dieser Agentur nicht vorbei!
                     </p>
                     <div className="info">
                       <div className="img">
@@ -141,10 +135,10 @@ const VideoWithTestimonials = () => {
                       <div className="cont">
                         <div className="author">
                           <h6 className="author-name custom-font">
-                            Alex Regelman
+                            Tilo Mannhammer 
                           </h6>
                           <span className="author-details">
-                            Co-founder, Colabrio
+                           Geschäftsführer, Mannhammer GmbH
                           </span>
                         </div>
                       </div>

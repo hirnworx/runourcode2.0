@@ -30,7 +30,7 @@ const PortfolioCustomColumn = ({
             </h6>
             <Split>
               <h3 className="wow words chars splitting" data-splitting>
-                Our Works.
+                Erfolgreiche Projekte.
               </h3>
             </Split>
             <span className="tbg text-right">Portfolio</span>
@@ -54,9 +54,9 @@ const PortfolioCustomColumn = ({
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".brand">Branding</span>
-                <span data-filter=".web">Mobile App</span>
-                <span data-filter=".graphic">Creative</span>
+                <span data-filter=".brand">Shopware</span>
+                <span data-filter=".web">Shopware + ERP</span>
+                <span data-filter=".graphic">Magento</span>
               </div>
             </div>
           )}

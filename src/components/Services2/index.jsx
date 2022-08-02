@@ -8,9 +8,9 @@ const Services2 = () => {
         <div className="row rone">
           <div className="col-lg-3 wow fadeInUp" data-wow-delay=".4s">
             <div className="mas-item">
-              <span className="icon pe-7s-monitor"></span>
+              <span className="icon pe-7s-rocket"></span>
               <h6>
-                Website <br /> Developments
+                Onlineshop <br /> Entwicklung
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
@@ -27,9 +27,9 @@ const Services2 = () => {
             data-wow-delay=".4s"
           >
             <div className="mas-item">
-              <span className="icon pe-7s-camera"></span>
+              <span className="icon pe-7s-repeat"></span>
               <h6>
-                Product <br /> Photography
+                ERP <br /> Synchronisation
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
@@ -48,7 +48,7 @@ const Services2 = () => {
             <div className="mas-item">
               <span className="icon pe-7s-phone"></span>
               <h6>
-                Mobile App <br /> Devlopment
+                Mobile <br /> Commerce
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
@@ -67,9 +67,9 @@ const Services2 = () => {
             data-wow-delay=".4s"
           >
             <div className="mas-item">
-              <span className="icon pe-7s-diskette"></span>
+              <span className="icon pe-7s-cloud-upload"></span>
               <h6>
-                Document <br /> Legal Policy
+                Server <br /> Hosting
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
@@ -86,9 +86,9 @@ const Services2 = () => {
             data-wow-delay=".4s"
           >
             <div className="mas-item">
-              <span className="icon pe-7s-help2"></span>
+              <span className="icon pe-7s-network"></span>
               <h6>
-                Managing <br /> Community
+                Marktplatz <br /> Synchronisation
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
@@ -105,9 +105,9 @@ const Services2 = () => {
             data-wow-delay=".4s"
           >
             <div className="mas-item">
-              <span className="icon pe-7s-arc"></span>
+              <span className="icon pe-7s-anchor"></span>
               <h6>
-                Coustomer <br /> Engagement
+                Plugin <br /> Entwicklung
               </h6>
               <div className="text-right">
                 <Link href="/about/about-dark">
