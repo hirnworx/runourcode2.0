@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/home/home2-dark.js"
-    ],
-    "/home/home4-dark": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/home/home4-dark.js"
     ]
   },
   "ampFirstPages": []
