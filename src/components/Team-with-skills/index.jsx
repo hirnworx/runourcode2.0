@@ -53,14 +53,14 @@ const TeamWithSkills = () => {
                       data-tooltip-tit="Stephanie Lawrence"
                       data-tooltip-sub="CEO, Colabrio Media"
                     >
-                      <img src="/img/team/1.jpg" alt="" className="imago wow animated" />
+                      <img src="/img/team/1.jpg" alt="" className="imago wow" />
                     </div>
                     <div
                       className="img sizmd"
                       data-tooltip-tit="Alex Regelman"
                       data-tooltip-sub="Co-Founder, Colabrio Media"
                     >
-                      <img src="/img/team/2.jpg" alt="" className="imago wow animated" />
+                      <img src="/img/team/2.jpg" alt="" className="imago wow" />
                     </div>
                   </div>
                 </div>
@@ -71,14 +71,14 @@ const TeamWithSkills = () => {
                       data-tooltip-tit="Stacey Stamper"
                       data-tooltip-sub="Network Partner, Colabrio Media"
                     >
-                      <img src="/img/team/3.jpg" alt="" className="imago wow animated" />
+                      <img src="/img/team/3.jpg" alt="" className="imago wow" />
                     </div>
                     <div
                       className="img sizsm"
                       data-tooltip-tit="Stephanie Lawrence"
                       data-tooltip-sub="CEO, Colabrio Media"
                     >
-                      <img src="/img/team/4.jpg" alt="" className="imago wow animated" />
+                      <img src="/img/team/4.jpg" alt="" className="imago wow" />
                     </div>
                   </div>
                 </div>
