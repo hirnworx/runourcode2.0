@@ -77,13 +77,13 @@ const AboutUs2 = ({ skillsTheme }) => {
                       value={90}
                       className="custom-font"
                       strokeWidth={2}
-                      text={`${90}%`}
+                      text={`${100}%`}
                       styles={cpStyle}
                     />
                   </div>
                   <div className="cont">
-                    <span>Project</span>
-                    <h6>Consulting</h6>
+                    <span>E-Commerce</span>
+                    <h6>Entwicklung</h6>
                   </div>
                 </div>
                 <div className="item">
@@ -92,13 +92,13 @@ const AboutUs2 = ({ skillsTheme }) => {
                       value={75}
                       strokeWidth={2}
                       className="custom-font"
-                      text={`${75}%`}
+                      text={`${100}%`}
                       styles={cpStyle}
                     />
                   </div>
                   <div className="cont">
-                    <span>App</span>
-                    <h6>Development</h6>
+                    <span>ERP</span>
+                    <h6>Synchronisation</h6>
                   </div>
                 </div>
               </div>

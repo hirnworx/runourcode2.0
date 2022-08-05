@@ -25,9 +25,9 @@ const PortfolioTwoColumn = () => {
                 </a>
               </Link>
               <div className="cont">
-                <h6>Creativity Demand</h6>
+                <h6>Feldmann GmbH</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">B2B</a>, <a href="#0">Shopware 6</a>
                 </span>
               </div>
             </div>

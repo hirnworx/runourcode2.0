@@ -2,43 +2,43 @@
   {
     "id": 1,
     "image": "/img/portfolio/mas/01.jpg",
-    "title": "Creativity Demand",
-    "tags": ["Design", "WordPress"],
+    "title": "Feldmann GmbH",
+    "tags": ["Shopware 6", "Microtech ERP"],
     "filterCategory": ["graphic"]
   },
   {
     "id": 2,
     "image": "/img/portfolio/mas/02.jpg",
-    "title": "Through The Breaking",
-    "tags": ["Design", "WordPress"],
+    "title": "Fenau GmbH",
+    "tags": ["Magento 2", "Microtech ERP"],
     "filterCategory": ["web"]
   },
   {
     "id": 3,
     "image": "/img/portfolio/mas/03.jpg",
-    "title": "Create With Creatives",
-    "tags": ["Design", "WordPress"],
+    "title": "Alvito GmbH",
+    "tags": ["Shopware 6", "Filemaker ERP"],
     "filterCategory": ["brand"]
   },
   {
     "id": 4,
     "image": "/img/portfolio/mas/04.jpg",
-    "title": "Energies of Love",
-    "tags": ["Design", "WordPress"],
+    "title": "Sync2Shop",
+    "tags": ["ERP", "Shopware","Marketplaces"],
     "filterCategory": ["graphic"]
   },
   {
     "id": 5,
     "image": "/img/portfolio/mas/05.jpg",
-    "title": "See It Yourself",
-    "tags": ["Design", "WordPress"],
+    "title": "Sync2Ship",
+    "tags": ["Shopware", "Magento"],
     "filterCategory": ["web"]
   },
   {
     "id": 6,
     "image": "/img/portfolio/mas/06.jpg",
-    "title": "Blast From The Past",
-    "tags": ["Design", "WordPress"],
+    "title": "Willhelm Schweizer Zinnmanufaktur GmbH",
+    "tags": ["Shopware 6", "4D ERP"],
     "filterCategory": ["brand"]
   }
 ]
